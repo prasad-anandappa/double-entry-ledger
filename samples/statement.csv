@@ -1,0 +1,4 @@
+value_date,account_code,amount_minor,reference,description
+2026-10-01,CASH-100,100000,INV-001,Invoice 001 payment received
+2026-10-01,REV-400,100000,INV-001,Invoice 001 revenue recognised
+2026-10-03,CASH-100,-1500,FEE-0009,Bank service fee
